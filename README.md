@@ -27,8 +27,8 @@ The prototype explores how serverless cloud architecture, automated data ingesti
 - AWS Lambda
 - Terraform
 - AWS CloudWatch
+- - Figma (UX/UI Prototyping)
 - System Design
-- UX/UI Prototyping (Figma)
 
 ## Key Features
 
