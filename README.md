@@ -45,14 +45,14 @@ The prototype explores how serverless cloud architecture, automated data ingesti
 - **Infrastructure as Code** deployment using Terraform
 - **JSON-based data integration** for ingesting global health datasets
 - **Cloud monitoring and observability** through AWS CloudWatch
-- **Modular service design** enabling scalable advisory processing
+- **Scalable cloud infrastructure** designed for large-scale travel data queries
 
 ## Design Principles
 
 - **Information clarity** by translating complex epidemiological data into simple guidance
 - **User accessibility** through clear visual communication of health risks
-- **Scalable architecture** using serverless cloud infrastructure
-- **Data-driven insights** grounded in authoritative global health sources
+- **Data transparency** through the use of datasets from WHO
+- **Intuitive exploration** of destination-based health risks through structured interface flows
 
 ## Repository Note
 
