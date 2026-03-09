@@ -56,7 +56,7 @@ The prototype explores how serverless cloud architecture, automated data ingesti
 
 ## Repository Note
 
-This project was originally developed in a private university GitLab repository. After graduation, access to the repository expired and the full codebase is no longer available. This repository contains the system design artefacts and prototype that demonstrate the architecture and development approach used in the project.
+This project was originally developed in a private GitLab repository hosted by the university. After graduation, access to the repository expired and the full codebase is no longer available. This repository contains the system design artefacts and prototype that demonstrate the architecture and development approach used in the project.
 
 ## Author
 
