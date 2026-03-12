@@ -43,7 +43,7 @@ The prototype explores how serverless cloud architecture, automated data ingesti
 
 - **Serverless backend architecture** using AWS Lambda
 - **Infrastructure as Code** deployment using Terraform
-- **JSON-based data integration** for ingesting global health datasets
+- **JSON-based data integration** for importing global health datasets
 - **Cloud monitoring and observability** through AWS CloudWatch
 - **Scalable cloud infrastructure** designed for large-scale travel data queries
 
