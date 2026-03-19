@@ -1,0 +1,20 @@
+[
+  { "country": "Spain", "disease": "Influenza A(H1N1)", "date": "2023-01-10" },
+  { "country": "Spain", "disease": "COVID-19 Variant", "date": "2023-02-14" },
+  { "country": "Spain", "disease": "Dengue Fever", "date": "2023-03-01" },
+  { "country": "Spain", "disease": "Norovirus", "date": "2023-03-20" },
+  { "country": "Spain", "disease": "Measles", "date": "2023-04-05" },
+
+  { "country": "France", "disease": "Enterovirus Infection", "date": "2023-01-05" },
+  { "country": "France", "disease": "Influenza B", "date": "2023-01-25" },
+  { "country": "France", "disease": "COVID-19 Variant", "date": "2023-02-18" },
+  { "country": "France", "disease": "Measles", "date": "2023-03-02" },
+  { "country": "France", "disease": "Norovirus", "date": "2023-03-22" },
+  { "country": "France", "disease": "RSV", "date": "2023-04-01" },
+  { "country": "France", "disease": "Dengue Fever", "date": "2023-04-15" },
+  { "country": "France", "disease": "Chikungunya", "date": "2023-05-01" },
+
+  { "country": "Nigeria", "disease": "Lassa Fever", "date": "2023-01-12" },
+  { "country": "Nigeria", "disease": "Yellow Fever", "date": "2023-02-08" },
+  { "country": "Nigeria", "disease": "Cholera", "date": "2023-03-10" }
+]
