@@ -16,7 +16,7 @@ def generate_epidemiology_summary(country: str, dataset: list[dict[str, Any]]) -
     date = latest_outbreak.get("date", "an unknown date")
 
     return (
-        f"{country} has {len(outbreaks)} recorded outbreak case(s) in the dataset. "
+        f"{country} has {len(outbreaks)} recorded outbreak(s) in the dataset. "
         f"The most recent recorded outbreak is {disease}, reported on {date}."
     )
   
