@@ -33,3 +33,4 @@ def calculate_risk_score(outbreaks: list[dict[str, str]]) -> float:
         return 3.0
     return 1.0
 
+
