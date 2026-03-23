@@ -7,8 +7,8 @@ def get_country_outbreaks(country: str, dataset: list[dict[str, Any]]) -> list[d
     """
     return [
         {
-            "disease": entry.get("disease", "Unknown"),
-            "date": entry.get("date", "Unknown"),
+            "disease": entry.get("disease", "unknown"),
+            "date": entry.get("date", "unknown"),
         }
         for entry in dataset
         if entry.get("country", "").strip().lower() == country.strip().lower()
