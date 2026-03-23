@@ -21,8 +21,10 @@ def calculate_risk_score(outbreaks: list[dict[str, str]]) -> float:
     """
     outbreak_count = len(outbreaks)
 
-    if outbreak_count >= 8:
+    if outbreak_count >= 9:
         return 9.0
+    if outbreak_count >= 7:
+        return 8.0
     if outbreak_count >= 5:
         return 7.0
     if outbreak_count >= 3:
@@ -30,4 +32,3 @@ def calculate_risk_score(outbreaks: list[dict[str, str]]) -> float:
     if outbreak_count >= 1:
         return 3.0
     return 1.0
-    
