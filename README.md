@@ -25,6 +25,7 @@ The prototype explores how serverless cloud architecture, automated data ingesti
 - Python
 - JSON Data Processing
 - AWS Lambda
+- AWS S3
 - Terraform
 - AWS CloudWatch
 - Figma (UX/UI Prototyping)
@@ -42,9 +43,10 @@ The prototype explores how serverless cloud architecture, automated data ingesti
 ## System Architecture
 
 - **Serverless backend architecture** using AWS Lambda
+- **Cloud-based data storage** using AWS S3 for epidemiological datasets
 - **Infrastructure as Code** deployment using Terraform
-- **JSON-based data integration** for importing global health datasets
 - **Cloud monitoring and observability** through AWS CloudWatch
+- **JSON-based data integration** for importing global health datasets
 - **Scalable cloud infrastructure** designed for large-scale travel data queries
 
 ## Design Principles
